@@ -1,0 +1,30 @@
+{
+    "Climb": {
+        "elo": 730.7552671326046,
+        "checkpoints": [
+            {
+                "steps": 307950,
+                "file_path": "results\\climb\\Climb\\Climb-307950.onnx",
+                "reward": null,
+                "creation_time": 1698166199.9461696,
+                "auxillary_file_paths": [
+                    "results\\climb\\Climb\\Climb-307950.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 307950,
+            "file_path": "results\\climb\\Climb.onnx",
+            "reward": null,
+            "creation_time": 1698166199.9461696,
+            "auxillary_file_paths": [
+                "results\\climb\\Climb\\Climb-307950.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
